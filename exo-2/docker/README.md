@@ -20,7 +20,7 @@ flowchart LR;
     docker compose up
    ```
 
-3. Le fichier de configuration HAProxy est accessible avec le chemin `exo-2/docker/haproxy.conf`. Une fois les modifications apportées à la configuration de celui-ci, il devrait être accessible à l'adresse http://localhost:8080.
+3. Le fichier de configuration HAProxy est accessible avec le chemin `exo-2/docker/haproxy.cfg`. Une fois les modifications apportées à la configuration de celui-ci, il devrait être accessible à l'adresse http://localhost:8888.
 
 ## Commandes utiles
 
